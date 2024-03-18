@@ -3,4 +3,6 @@ matplotlib
 seaborn
 numpy
 tensorflow
--e .
+catboost
+xgboost
+#-e .
