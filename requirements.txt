@@ -3,6 +3,9 @@ matplotlib
 seaborn
 numpy
 tensorflow
-catboost
-xgboost
+#catboost
+#xgboost
+scikit-learn
+dill
+#pickle
 #-e .
